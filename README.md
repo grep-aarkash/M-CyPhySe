@@ -15,3 +15,9 @@ prototype-1 (5th April, 2019)
 1) Open-loop implementation of the CPS.
 2) Not taking any background patient data into consideration.
 3) Generates the amount to be injected based on the current inputs.
+
+
+Running KLEE (7th April, 2019)
+
+1) To explore all the states.
+2) To know if there is a state  being reached which goes against the safety invariant.
