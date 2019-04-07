@@ -17,7 +17,7 @@ prototype-1 (5th April, 2019)
 3) Generates the amount to be injected based on the current inputs.
 
 
-Running KLEE (7th April, 2019)
+Running KLEE (Rechability Analysis) (7th April, 2019)
 
 1) To explore all the states.
 2) To know if there is a state  being reached which goes against the safety invariant.
