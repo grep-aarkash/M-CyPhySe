@@ -7,3 +7,16 @@
 
 ##These are the commonly adjusted settings or the properties which ensure that the amount of insulin injected
 ##not less or more than required
+
+Based on previous work (CORGIDs and ARTINALI)
+Invariants:
+1. Time
+2. Data
+3. Events
+4. Physical 
+5. 1,2,3 -together
+6. Security invariants
+
+Which invariants can help detect which category of attacks?
+
+
