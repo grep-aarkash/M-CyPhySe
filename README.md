@@ -21,3 +21,5 @@ Running KLEE (Rechability Analysis) (7th April, 2019)
 
 1) To explore all the states.
 2) To know if there is a state  being reached which goes against the safety invariant.
+Current issue - What invaraints are these? - "safety invariants" - time? data? numerical? physical?
+Question - Can I use KLEE to generate these invariants from my prototype?
