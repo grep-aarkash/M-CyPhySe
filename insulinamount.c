@@ -8,6 +8,7 @@ is kept fixed by me for the time being.
 */
 int main(int argc, char const *argv[]) {
 
+  /* Instant invariants that this code can currently generate are the delta, blood_glucose, target_bg, basal_rates */
   // Define the three terms which are being used in the
   int basal_rates = 2;
   int insulin =  rand() % 30;
