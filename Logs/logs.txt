@@ -23,3 +23,9 @@ Running KLEE (Rechability Analysis) (7th April, 2019)
 2) To know if there is a state  being reached which goes against the safety invariant.
 Current issue - What invaraints are these? - "safety invariants" - time? data? numerical? physical?
 Question - Can I use KLEE to generate these invariants from my prototype?
+
+Rewriting prototype for KLEE (16th April, 2019)
+
+1) writing in a symbolic style for for running KLEE.
+2) Why not use a symbolic language like LISP or functional style to find 
+invariants?
